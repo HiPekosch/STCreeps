@@ -1,0 +1,25 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1728911811
+default_bus_layout.tres::AudioBusLayout::-1::1728552224::0::1::::<><>::
+default_env.tres::Environment::-1::1728552224::0::1::::<><>::
+icon.png::CompressedTexture2D::1505383182884085769::1606009720::1728552252::1::::<><>::
+main.gd::GDScript::-1::1728805456::0::1::::<>Node<>::
+main.tscn::PackedScene::6959267739110877667::1728805520::0::1::::<><>::uid://xnxvgfjnf454::::res://player.tscn<>res://main.gd<>uid://cgt8ovkx3lvn5::::res://mob.tscn<>uid://djnikiym6r0ge::::res://fonts/Montserrat-Medium.ttf<>res://score_label.gd
+mob.gd::GDScript::-1::1728803366::0::1::::<>CharacterBody3D<>::
+mob.tscn::PackedScene::5235227387938780452::1728805520::0::1::::<><>::res://mob.gd<>uid://bn0b81tbmpxh1::::res://art/mob.glb
+music_player.tscn::PackedScene::5313367718227771792::1728911762::0::1::::<><>::uid://dtswccfdfq814::::res://art/House In a Forest Loop.ogg
+player.gd::GDScript::-1::1728804364::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::1642614630273798629::1728805520::0::1::::<><>::res://player.gd<>uid://dge6dpmfhtt5a::::res://art/player.glb
+score_label.gd::GDScript::-1::1728805239::0::1::::<>Label<>::
+::res://art/::1728552252
+body.material::StandardMaterial3D::-1::1605908508::0::1::::<><>::
+eye.material::StandardMaterial3D::-1::1606514142::0::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::8531348338118044677::1580874009::1728552252::1::::<><>::
+mob.glb::PackedScene::3350606138051119996::1606513980::1728552252::1::::<><>::
+mob_body.material::StandardMaterial3D::-1::1606514142::0::1::::<><>::
+mob_eye.material::StandardMaterial3D::-1::1605969815::0::1::::<><>::
+player.glb::PackedScene::7590541014706418032::1606514058::1728552252::1::::<><>::
+pupil.material::StandardMaterial3D::-1::1606514142::0::1::::<><>::
+::res://fonts/::1728552252
+LICENSE.txt::TextFile::-1::1605988452::0::1::::<><>::
+Montserrat-Medium.ttf::FontFile::7818302606355008300::1323702000::1728552252::1::::<><>::
